@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[54]]></id>
+		<title><![CDATA[First Movie Product]]></title>
+		<content><![CDATA[Desription
+]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20180425]]></date>
+		<posttype><![CDATA[movies]]></posttype>
+		<permalink><![CDATA[http://movies:83/movies/first-movie-product/]]></permalink>
+		<url><![CDATA[http://movies:83/wp-content/uploads/2018/04/4507993-paradise-wallpapers.jpg]]></url>
+		<title_2><![CDATA[4507993-paradise-wallpapers]]></title_2>
+		<caption><![CDATA[]]></caption>
+		<description><![CDATA[]]></description>
+		<alttext><![CDATA[]]></alttext>
+		<featured><![CDATA[http://movies:83/wp-content/uploads/2018/04/4507993-paradise-wallpapers.jpg]]></featured>
+		<url_2><![CDATA[]]></url_2>
+		<moviecategory><![CDATA[Documental|History]]></moviecategory>
+		<_movie_subtitle><![CDATA[Subtitle]]></_movie_subtitle>
+		<_movie_price><![CDATA[5000]]></_movie_price>
+		<price><![CDATA[6000]]></price>
+		<_wc_review_count><![CDATA[0]]></_wc_review_count>
+		<_wc_rating_count><![CDATA[a:0:{}]]></_wc_rating_count>
+		<_wc_average_rating><![CDATA[0]]></_wc_average_rating>
+		<simplefavorites_count><![CDATA[3]]></simplefavorites_count>
+		<status><![CDATA[publish]]></status>
+		<authorid><![CDATA[1]]></authorid>
+		<authorusername><![CDATA[admin]]></authorusername>
+		<authoremail><![CDATA[n@gmail.com]]></authoremail>
+		<authorfirstname><![CDATA[]]></authorfirstname>
+		<authorlastname><![CDATA[]]></authorlastname>
+		<slug><![CDATA[first-movie-product]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<pingstatus><![CDATA[closed]]></pingstatus>
+		<postmodifieddate><![CDATA[20180426]]></postmodifieddate>
+	</node>
+</data>

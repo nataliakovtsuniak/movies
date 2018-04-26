@@ -1,0 +1,6 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink,URL,Title,Caption,Description,"Alt Text",Featured,URL,_customize_draft_post_name,_customize_changeset_uuid,_wp_page_template,_wp_trash_meta_status,_wp_trash_meta_time,_wp_desired_post_slug,Status,"Author ID","Author Username","Author Email","Author First Name","Author Last Name",Slug,Format,Template,Parent,"Parent Slug",Order,"Comment Status","Ping Status","Post Modified Date"
+14,Cart,[woocommerce_cart],,20180425,page,http://movies:83/cart/,,,,,,,,,,,,,,publish,1,admin,n@gmail.com,,,cart,,,0,0,0,closed,closed,20180425
+15,Checkout,[woocommerce_checkout],,20180425,page,http://movies:83/checkout/,,,,,,,,,,,,,,publish,1,admin,n@gmail.com,,,checkout,,,0,0,0,closed,closed,20180425
+16,"My account",[woocommerce_my_account],,20180425,page,http://movies:83/my-account/,,,,,,,,,,,,,,publish,1,admin,n@gmail.com,,,my-account,,,0,0,0,closed,closed,20180425
+59,"Your Favorite Movies",,,20180426,page,http://movies:83/movies-favorites/,,,,,,,,,,page-favorite-movies.php,,,,publish,1,admin,n@gmail.com,,,movies-favorites,,page-favorite-movies.php,0,0,0,closed,closed,20180426
+76,Home,"Best Movies Store",,20180426,page,http://movies:83/,,,,,,,,,,default,,,,publish,1,admin,n@gmail.com,,,home,,default,0,0,0,closed,closed,20180426

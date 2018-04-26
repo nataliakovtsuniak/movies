@@ -1,0 +1,47 @@
+/*
+Theme Name: Twenty Seventeen Child
+Description: Twenty Seventeen Child Theme
+Author: Natalia Kovtsuniak
+Template: twentyseventeen
+Version: 1
+*/
+
+
+.movies{
+    line-height:1.7em;
+}
+
+.login_link,
+.cat_movie,
+.title_movie{
+    color: #000;
+    font-weight: 600;
+}
+
+.subtitle_movie{
+    font-weight: 600;
+}
+
+p{
+    margin:0;
+}
+
+.buy_movie{
+    margin-top:1em;
+}
+
+.buy_movie input[type='submit']{
+    margin-top:1em;
+}
+
+.buy_movie input[type='number']{
+    width:140px;
+}
+
+.movie > div{
+    margin-bottom: 1em;
+}
+
+.archive_favorite{
+    margin-bottom:100px;
+}
